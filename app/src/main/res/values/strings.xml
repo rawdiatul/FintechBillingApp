@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FintechBillingApp</string>
+    <string name="title_invoice_details">Rincian Tagihan</string>
+    <string name="section_transaction_info">Informasi Transaksi</string>
+    <string name="section_merchant_customer">Informasi Toko &amp; Pelanggan</string>
+    <string name="section_item_list">Daftar Barang</string>
+    <string name="section_promo_voucher">Informasi Promo / Voucher</string>
+    <string name="section_payment_summary">Ringkasan Pembayaran</string>
+    <string name="no_promo_used">Tidak menggunakan promo</string>
+</resources>
